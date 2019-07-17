@@ -94,7 +94,7 @@ for day in range(6):
                         if(bList == ""):
                             if bCode == "A":
                                 rangeStart = 1
-                                rangeEnd = 4
+                                rangeEnd = 10
                             elif bCode == "B":
                                 rangeStart = 1
                                 rangeEnd = 15
